@@ -21,6 +21,6 @@ jobs:
       - name: Publish generated content to GitHub Pages
         uses: JamesIves/github-pages-deploy-action@4.1.4
         with:
-	  token: ${{ secrets.GH_PAT }}
+          token: ${{ secrets.GH_PAT }}
           branch: gh-pages
           folder: public
