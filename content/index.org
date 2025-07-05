@@ -1,7 +1,8 @@
-#+title: Org Mode Example Site
+#+title: Dante Yasui
+#+images[]: ../images/profile-pic.jpg
 
 * Overview
 
-This is an *example* of a _website_ written with [[https://orgmode.org][Org Mode]]!
+
 
 Does this work to update the gh-pages site?
