@@ -1,7 +1,0 @@
-#+title: "Test"
-#+date: 2025-07-04T12:32:25-07:00
-#+draft: true
-
-* Test Document
-
-[[images/036cc55d-b147-4424-ad6b-593992e9812e.jpg]]

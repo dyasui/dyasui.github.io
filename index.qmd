@@ -1,0 +1,23 @@
+---
+title: ""
+about:
+  template: trestles
+  image: assets/icon.svg
+  links:
+    - icon: globe
+      text: Web
+      href: https://danteyasui.org
+    - icon: github
+      text: Github
+      href: https://github.com/dyasui
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/dyasui/
+comments: false
+---
+
+I am a current Doctoral candidate in Economics at the [University of Oregon](https://www.uoregon.edu/).
+
+My research focuses are on migration, historical data, and applied labor economics.
+
+You can find more about my research and teaching experience using the navigation tabs at the top of this page.

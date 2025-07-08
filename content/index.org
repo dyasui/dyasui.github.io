@@ -1,8 +1,0 @@
-#+title: Dante Yasui
-#+images[]: ../images/profile-pic.jpg
-
-* Overview
-
-
-
-Does this work to update the gh-pages site?
