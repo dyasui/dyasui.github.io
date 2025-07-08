@@ -1,0 +1,66 @@
+---
+title: "Dante Yasui, CV"
+toc: true
+toc-location: left
+---
+
+<head>
+<script>
+  document.title = "Dante Yasui: CV";
+</script>
+</head>
+
+[PDF](cv.pdf)
+
+## Education
+
+B.A., Lewis & Clark College, 2021
+<br>M.S. Economics, University of Oregon, 2023
+<br>Ph.D. Economics, University of Oregon, 2026 (expected)
+
+__Primary interests__: Economic History, Migration, Urban Economics
+<br>
+
+## Research in progress
+
+"Forced Removal or Economic Mobility? Labor market and migration outcomes of Japanese American Internees"
+<br>
+
+"Dust Bowl Migrants: Did moving across space lead to moving up the economic ladder?"
+<br>
+
+## Teaching
+
+__[EC327: Intoduction to Game Theory](https://danteyasui.org/EC327/)__
+
+- University of Oregon: **Fall 2025**, **Winter 2024**, **Fall 2024**
+
+__[EC311: Intermediate Microeconomic Theory](https://danteyasui.org/EC-311/)__
+
+- University of Oregon: **Spring 2025**
+
+__[EC320: Introduction to Econometrics I](https://github.com/dyasui/EC320Su24)__
+
+- University of Oregon: **Summer 2024**
+
+## Grants, awards, etc.
+
+Graduate Teacing Fellowship, 2021-
+
+Kleinsorge Summer Research Fellowship, 2023
+
+### Additional
+
+- Organised graduate student brownbag research group (2nd year UO)
+- Macro Minutes summer meeting series (Lewis & Clark)
+
+## Skills
+
+- __Computing:__ R, Python, Julia, QGIS 
+- __Writing/Office:__ LaTeX, Markdown, Org, Inkscape, Microsoft Suite
+
+## Contact
+
+- __email__ dyasui@uoregon.edu
+- __website__ [danteyasui.org](http://danteyasui.org)
+- __github__ [dyasui](https://github.com/dyasui)

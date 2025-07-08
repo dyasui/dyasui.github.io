@@ -1,0 +1,14 @@
+color:
+  palette:
+    ink-black: "#16161D"
+    ink-darkgrey: "#181820"
+    old-white: "#C8C093"
+    wave-blue: "#223249"
+  background: ink-darkgrey
+  foreground: old-white
+  primary: ink-black
+
+logo:
+  small: assets/dy-logo_small.png
+  medium: assets/dy-logo_medium.png
+  large: assets/dy-logo_large.png

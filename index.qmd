@@ -2,7 +2,7 @@
 title: ""
 about:
   template: trestles
-  image: assets/icon.svg
+  image: assets/headshot.jpg
   links:
     - icon: globe
       text: Web

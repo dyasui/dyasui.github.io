@@ -24,22 +24,18 @@ editor:
   markdown: 
     wrap: sentence
 engine: knitr
-filters:
-   - include-code-files
 
 website:
   title: "Dante Yasui"
   site-url: "https://www.danteyasui.org"
   repo-url: https://github.com/dyasui/dyasui.github.io
   description: "Dante's Website"
-  favicon: /assets/icon.png 
+  favicon: /assets/favicon/favicon.ico 
   search: true
   navbar:
-    background: "#99ccff"
-    logo: /assets/icon.png
+    background:  "#223249"
+    logo: /assets/favicon/favicon.ico
     left:
-      - text: "About"
-        file: about.qmd
       - text: "Research"
         file: research.qmd
       - text: "CV"
@@ -51,19 +47,17 @@ website:
       {{< fa regular copyright >}} Dante Yasui, 2025<br>
       All content licensed under {{< fa brands creative-commons >}}
       {{< fa brands creative-commons-by >}} {{< fa brands creative-commons-sa >}} {{< fa brands creative-commons-nc >}} [(CC BY-NC-SA 4.0)](http://creativecommons.org/licenses/by-nc-sa/4.0/)<br>
-      Opinions are my own and do not represent my employer
     right: |
       Made with {{< fa brands r-project >}} and [Quarto](https://quarto.org/)<br>
       [{{< fa brands github >}} Source](https://github.com/dyasui/dyasui.github.io)
 format:
   html:
-    include-after-body: files/webex.js    
     code-fold: false
     #embed-resources: true	
     #self-contained: true
     theme: 
-      light: [matria,files/customstyle.scss]
-      dark: [slate,files/customstyle.scss]
+      light: [matria]
+      dark: [slate]
     # css: files/webex.css
     toc: true
     
