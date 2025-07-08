@@ -40,6 +40,8 @@ website:
         file: research.qmd
       - text: "CV"
         file: cv.qmd
+      - text: "Teaching"
+        file: teaching.qmd
       - text: "Other"
         file: other.qmd
   page-footer:
