@@ -1,11 +1,11 @@
 # Instructor of Record
 
 
-## [EC327: Introduction to Game Theory](https://danteyasui.org/EC327/)
+## [EC327: Introduction to Game Theory](https://dyasui.github.io/EC327/)
 
 Term: **Fall 2025**, **Winter 2024**, **Fall 2024** (80 student cap)
 
-Class website: <https://danteyasui.org/EC327>
+Class website: <https://dyasui.github.io/EC327>
 
 Course materials repository: <https://github.com/dyasui/EC327>
 
@@ -15,11 +15,11 @@ Course materials repository: <https://github.com/dyasui/EC327>
 
 - "I really like Dante's teaching styles and interactive learning"
 
-## [EC311: Intermediate Microeconomic Theory](https://danteyasui.org/EC-311/)
+## [EC311: Intermediate Microeconomic Theory](https://dyasui.github.io/EC-311/)
 
 Term: **Spring 2025** (93 students)
 
-Class website: <https://danteyasui.org/EC-311>
+Class website: <https://dyasui.github.io/EC-311>
 
 Course materials repository: <https://github.com/dyasui/EC-311>
 

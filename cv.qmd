@@ -31,11 +31,11 @@ __Primary interests__: Economic History, Migration, Urban Economics
 
 ## Teaching
 
-__[EC327: Intoduction to Game Theory](https://danteyasui.org/EC327/)__
+__[EC327: Intoduction to Game Theory](https://dyasui.github.io/EC327/)__
 
 - University of Oregon: **Fall 2025**, **Winter 2024**, **Fall 2024**
 
-__[EC311: Intermediate Microeconomic Theory](https://danteyasui.org/EC-311/)__
+__[EC311: Intermediate Microeconomic Theory](https://dyasui.github.io/EC-311/)__
 
 - University of Oregon: **Spring 2025**
 
