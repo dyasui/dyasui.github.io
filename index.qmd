@@ -12,7 +12,7 @@ about:
       href: https://github.com/dyasui
     - icon: linkedin
       text: LinkedIn
-      href: https://www.linkedin.com/in/dyasui/
+      href: https://www.linkedin.com/in/danteyasui/
 comments: false
 ---
 
