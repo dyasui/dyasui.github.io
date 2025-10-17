@@ -2,7 +2,7 @@
 title: ""
 about:
   template: trestles
-  image: assets/headshot.jpg
+  image: assets/DYasui-photo.jpg
   links:
     - icon: globe
       text: Web
@@ -21,3 +21,5 @@ I am a current Doctoral candidate in Economics at the [University of Oregon](htt
 My research focuses are on migration, historical data, and applied labor economics.
 
 You can find more about my research and teaching experience using the navigation tabs at the top of this page.
+
+[CV](cv.pdf){.btn .btn-outline-primary .btn role="button"}
