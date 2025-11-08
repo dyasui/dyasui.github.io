@@ -22,4 +22,11 @@ My research focuses are on migration, historical data, and applied labor economi
 
 You can find more about my research and teaching experience using the navigation tabs at the top of this page.
 
-[CV](cv.pdf){.btn .btn-outline-primary .btn role="button"}
+:::: {.columns}
+::: {.column}
+[CV](_latex/dante-cv.pdf){.btn .btn-outline-primary .btn role="button"}
+:::
+::: {.column}
+[Job Market Paper](research/internee-outcomes/index.qmd){.btn .btn-outline-primary .btn role="button"}
+:::
+::::

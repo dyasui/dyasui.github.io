@@ -53,7 +53,14 @@
     "href": "cv.html#education",
     "title": "Dante Yasui, CV",
     "section": "Education",
-    "text": "Education\nPh.D. Economics, University of Oregon, 2026 (expected) M.S. Economics, University of Oregon, 2023 B.A., Lewis & Clark College, 2021\nPrimary interests: Economic History, Migration, Urban Economics"
+    "text": "Education\n\nPh.D. Economics, University of Oregon, 2026 (expected) Committee: Jonathan Davis, Mark Colas, Ed Rubin, Isabel Garcıa Valdivia\nM.S. Economics, University of Oregon, 2023\nB.A., Lewis & Clark College, 2021\n\nPrimary interests: Economic History, Migration, Urban Economics"
+  },
+  {
+    "objectID": "cv.html#job-market-paper",
+    "href": "cv.html#job-market-paper",
+    "title": "Dante Yasui, CV",
+    "section": "Job Market Paper",
+    "text": "Job Market Paper\n“Forced Removal or Moved to Opportunity? Labor Market and Migration Effects of Japanese Internment” Draft"
   },
   {
     "objectID": "cv.html#research-in-progress",
@@ -74,14 +81,14 @@
     "href": "cv.html#grants-awards-etc.",
     "title": "Dante Yasui, CV",
     "section": "Grants, awards, etc.",
-    "text": "Grants, awards, etc.\nGraduate Teacing Fellowship, 2021-\nKleinsorge Summer Research Fellowship, 2023\n\nAdditional\n\nOrganised graduate student brownbag research group (2nd year UO)\nMacro Minutes summer meeting series (Lewis & Clark)"
+    "text": "Grants, awards, etc.\nGraduate Teacing Fellowship, 2021-\nKleinsorge Summer Research Fellowship, 2023\n\nAdditional\n\nGraduate Brownbag Coordinator, University of Oregon, 2021-2022\nApplied Microeconomics Brownbag Coordinator, University of Oregon, 2022-2023"
   },
   {
     "objectID": "cv.html#skills",
     "href": "cv.html#skills",
     "title": "Dante Yasui, CV",
     "section": "Skills",
-    "text": "Skills\n\nComputing: R, Python, Julia, QGIS\nWriting/Office: LaTeX, Markdown, Org, Inkscape, Microsoft Suite"
+    "text": "Skills\n\nComputing: R, QGIS, ArcGIS, Julia, Python\nWriting/Office: LaTeX, Quarto, Microsoft 365"
   },
   {
     "objectID": "cv.html#contact",
@@ -102,13 +109,6 @@
     "href": "research/internee-outcomes/index.html",
     "title": "Forced Removal or Moved to Opportunity?",
     "section": "",
-    "text": "Japanese internment during World War II serves as a natural experiment to analyse the effects of the forcibly relocated population’s new locations on their annual earnings. Attributing differences in economic mobility between migrants and non-migrants is difficult because migrants often move because they have opportunities which may be unavailable to non-migrants such as education. However, the population of Japanese Americans who were forced to evacuate the West Coast in 1942, their later locations were affected through mechanisms outside of their control. By comparing these individuals against similar inidividuals who were not evacuated, I identify the causal effect of this relocation on the differences in annual earnings before and after internment. I find that individuals who were likely interned experienced faster growth in earnings compared to their counterfactual earnings if they had not been interned. The possible mechaisms which might explain this seeming adaptation include occupational change and later migration decisions."
-  },
-  {
-    "objectID": "cv.html#job-market-paper",
-    "href": "cv.html#job-market-paper",
-    "title": "Dante Yasui, CV",
-    "section": "Job Market Paper",
-    "text": "Job Market Paper\n“Forced Removal or Moved to Opportunity? Labor Market and Migration Effects of Japanese Internment”"
+    "text": "Working Paper Draft\nDuring World War II a large scale forced migration of over 100,000 Japanese American immigrants and their citizen children lead to relocation away from the West Coast. I analyse the effect that this forced relocation had on the post-war earnings of a linked sample of likely internees. My empirical strategy uses an individual-level panel of Japanese and Chinese men and women to compare earnings before and after internment. I find that individuals who were likely interned experienced faster growth in earnings compared to their counterfactual earnings if they had not been interned.\nThe possible mechaisms which might explain this seeming adaptation include occupational change and later migration decisions."
   }
 ]
