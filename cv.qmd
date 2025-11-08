@@ -10,13 +10,16 @@ toc-location: left
 </script>
 </head>
 
-[PDF](cv.pdf){.btn .btn-outline-primary .btn role="button"}
+[PDF](_latex/dante-cv.pdf){.btn .btn-outline-primary .btn role="button"}
 
 ## Education
 
-<br>Ph.D. Economics, University of Oregon, 2026 (expected)
-<br>M.S. Economics, University of Oregon, 2023
-B.A., Lewis & Clark College, 2021
+  - Ph.D. Economics, University of Oregon, 2026 (expected)
+Committee: Jonathan Davis, Mark Colas, Ed Rubin, Isabel Garcıa Valdivia
+
+  - M.S. Economics, University of Oregon, 2023
+
+  - B.A., Lewis & Clark College, 2021
 
 __Primary interests__: Economic History, Migration, Urban Economics
 <br>
@@ -24,6 +27,7 @@ __Primary interests__: Economic History, Migration, Urban Economics
 ## Job Market Paper
 
 "Forced Removal or Moved to Opportunity? Labor Market and Migration Effects of Japanese Internment"
+[Draft](research/internee-outcomes/InterneeOutcomes-20251017.pdf)
 <br>
 
 ## Research in progress
@@ -56,13 +60,13 @@ Kleinsorge Summer Research Fellowship, 2023
 
 ### Additional
 
-- Organised graduate student brownbag research group (2nd year UO)
-- Macro Minutes summer meeting series (Lewis & Clark)
+- Graduate Brownbag Coordinator, University of Oregon, 2021-2022
+- Applied Microeconomics Brownbag Coordinator, University of Oregon, 2022-2023
 
 ## Skills
 
-- __Computing:__ R, Python, Julia, QGIS 
-- __Writing/Office:__ LaTeX, Markdown, Org, Inkscape, Microsoft Suite
+- __Computing:__ R, QGIS, ArcGIS, Julia, Python
+- __Writing/Office:__ LaTeX, Quarto, Microsoft 365
 
 ## Contact
 
